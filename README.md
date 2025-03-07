@@ -11,9 +11,9 @@ This project focuses on stereo vision-based depth estimation, a crucial aspect o
 
 Below are some results I got from the project:
 
-![Depth Estimation Example 1](images/image_1.png)
+![Depth Estimation Example 1](image_1.png)
 
-![Depth Estimation Example 2](images/image_2.png)
+![Depth Estimation Example 2](image_2.png)
 
 ## Applications
 **Autonomous Vehicles** – Enhancing self-driving capabilities.
